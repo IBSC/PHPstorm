@@ -14,7 +14,7 @@
         <property name="yearIsDateType" value="false" />
       </driver-properties>
     </data-source>
-    <data-source source="LOCAL" name="OCEAN" uuid="520a4ffd-949b-4249-919f-dc1048b519ee">
+    <data-source source="LOCAL" name="GIGITECH" uuid="520a4ffd-949b-4249-919f-dc1048b519ee">
       <driver-ref>mysql</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
