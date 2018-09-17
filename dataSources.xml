@@ -1,6 +1,6 @@
 <application>
   <component name="dataSourceStorage" format="xml" multifile-model="true">
-    <data-source source="LOCAL" name="clients root  &amp; partners" uuid="54a3bdc6-f244-4cea-aae6-f9697421be50">
+    <data-source source="LOCAL" name="LOCAL" uuid="54a3bdc6-f244-4cea-aae6-f9697421be50">
       <driver-ref>mysql</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
@@ -14,11 +14,11 @@
         <property name="yearIsDateType" value="false" />
       </driver-properties>
     </data-source>
-    <data-source source="LOCAL" name="clients detail" uuid="520a4ffd-949b-4249-919f-dc1048b519ee">
+    <data-source source="LOCAL" name="OCEAN" uuid="520a4ffd-949b-4249-919f-dc1048b519ee">
       <driver-ref>mysql</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
-      <jdbc-url>jdbc:mysql://localhost:3306/c_1</jdbc-url>
+      <jdbc-url>jdbc:mysql://localhost:3306/</jdbc-url>
       <driver-properties>
         <property name="autoReconnect" value="true" />
         <property name="zeroDateTimeBehavior" value="convertToNull" />
@@ -28,11 +28,11 @@
         <property name="yearIsDateType" value="false" />
       </driver-properties>
     </data-source>
-    <data-source source="LOCAL" name="ROOT root" uuid="3ad4c05b-8e1b-4214-845c-0de8f8cb7bfa">
+    <data-source source="LOCAL" name="ROOT" uuid="3ad4c05b-8e1b-4214-845c-0de8f8cb7bfa">
       <driver-ref>mysql</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
-      <jdbc-url>jdbc:mysql://130.211.80.136:3306/clients</jdbc-url>
+      <jdbc-url>jdbc:mysql://130.211.80.136:3306/</jdbc-url>
       <driver-properties>
         <property name="autoReconnect" value="true" />
         <property name="zeroDateTimeBehavior" value="convertToNull" />
