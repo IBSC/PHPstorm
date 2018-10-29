@@ -9,6 +9,9 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
+      <webServer id="bdc7c08a-ad57-4bb8-b47a-6396431adba3" name="IBSC-october" url="http://ibsc-oct.local">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
