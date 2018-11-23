@@ -1,10 +1,8 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <removed_mapping ext="htm" approved="true" type="HTML" />
       <mapping pattern="wq" type="PLAIN_TEXT" />
       <mapping pattern="asdfsa" type="PLAIN_TEXT" />
-      <mapping ext="htm" type="Twig" />
     </extensionMap>
   </component>
 </application>
